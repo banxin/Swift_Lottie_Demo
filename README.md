@@ -32,7 +32,7 @@ Lottie 是一个可应用于Andriod和iOS的动画库，它通过[bodymovin](htt
 
 免费动画下载：https://www.lottiefiles.com
 
-DEMO地址: <http://ytgit.hipac.cn/Wireless/sz_lottie_demo_swift>
+DEMO地址: <https://github.com/banxin/Swift_Lottie_Demo>
 
 三、作用（替补方案）
 ----------
