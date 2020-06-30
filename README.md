@@ -566,6 +566,6 @@ Lottie 本身不支持缓存机制，需要自己实现，目前暂时建议使�
 
 其他的内容，详见DEMO！！！
 
-<http://ytgit.hipac.cn/Wireless/sz_lottie_demo_swift>========
+ [传送门](https://github.com/banxin/Swift_Lottie_Demo)
 
 
